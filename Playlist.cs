@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 [System.Serializable]
-public class Playlist {
+public clafylist {
 
     #region Variables
     public string name;
